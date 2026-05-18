@@ -1,10 +1,21 @@
+<table>
+<tr>
+<td width="55%">
+
 # About Me:
-Exploring 
+Working On Myself
+journey to Be Perfect 
+  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+</td>
 
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 # Tech Stack:
 <div align="center">
@@ -85,5 +96,3 @@ Exploring
 [![](https://komarev.com/ghpvc/?username=ommprasad-programmer&icon=7&color=10)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
