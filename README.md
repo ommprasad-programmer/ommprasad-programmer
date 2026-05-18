@@ -93,6 +93,10 @@ journey to Be Perfect
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=ommprasad-programmer&icon=7&color=10)](https://visitcount.itsvg.in)
+### ❤️ Thanks For Visiting My Profile ❤️
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120"/>
 
 </div>
+
+
